@@ -5,4 +5,6 @@ metadata:
 data:
   state: Michigan
   city: Ann Arbor
-
+  content: |
+    Look at this,
+    its multiline!
